@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Maybe this can be interested you : 
+Maybe this can be interested you :
  -[bibliobook](https://github.com/berin-d/bibliobook)
 <!--
 **berin-d/berin-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
